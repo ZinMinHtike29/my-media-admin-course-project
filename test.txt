@@ -1,0 +1,5 @@
+Laravel Project Create
+Two Parts => Admin Panel With Laravel,Blade and User Panel With VueJs Connect With API
+Tables => User / Post / Category / Like,Comment / Action Log
+Create Tables
+Authentication With Jetstream
